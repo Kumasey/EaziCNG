@@ -240,31 +240,8 @@ input{
     border-radius:5px;
 }
 
-#hide1{
-    display: none;
-}
-
-.eye {
-    position: absolute;
-    margin-left: 330px;
-    margin-top: 20px;
-  }
-
-  .eye1 {
-    position: absolute;
-    margin-left: 300px;
-    margin-top: 20px;
-  }
-
-  #pass{
+#pass{
       text-decoration: none;
       margin-left: 0px;
       color: black;
-  }
-
-  .fa-eye{
-      color: gray;
-  }
-  .fa-eye-slash{
-      color: gray;
   }
